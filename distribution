@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SASA - Reward Distribution</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body class="text-white">
+    
+    <!-- Header -->
+    <div class="container mx-auto px-4 py-8">
+        <div class="text-center mb-8">
+            <a href="/" class="inline-block mb-4 text-white hover:text-yellow-300 transition">
+                ← Back to Home
+            </a>
+            <h1 class="text-5xl font-black mb-2">🎉 REWARD DISTRIBUTION</h1>
+            <p class="text-xl text-purple-200">Transparency. Honesty. Recognition.</p>
+        </div>
+
+        <!-- Next Distribution Announcement -->
+        <div class="glass-effect rounded-2xl p-8 mb-8 max-w-4xl mx-auto">
+            <div class="text-center mb-6">
+                <div class="inline-block bg-gradient-to-r from-yellow-400 to-orange-500 text-black px-6 py-2 rounded-full font-bold mb-4">
+                    📅 NEXT DISTRIBUTION: NOVEMBER 3
+                </div>
+            </div>
+
+            <h2 class="text-3xl font-bold mb-6 text-center">Next Reward Distribution - November 3rd</h2>
+            
+            <div class="prose prose-invert max-w-none">
+                <p class="text-lg mb-4">
+                    We're excited to announce the second $SASA community distribution on <strong>November 3rd</strong>.
+                </p>
+
+                <h3 class="text-2xl font-bold mt-6 mb-4">💰 How it works:</h3>
+                <p class="mb-4">
+                    This distribution is based on <strong>percentage allocation</strong> rather than fixed amounts. 
+                    The reward pool will be divided as follows:
+                </p>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+                    <div class="bg-white/10 rounded-lg p-4">
+                        <div class="text-3xl mb-2">🥇</div>
+                        <div class="font-bold text-xl">Top Contributor (40%)</div>
+                        <div class="text-sm text-purple-200">Most active & helpful member</div>
+                    </div>
+                    <div class="bg-white/10 rounded-lg p-4">
+                        <div class="text-3xl mb-2">🥈</div>
+                        <div class="font-bold text-xl">Community Champions (30%)</div>
+                        <div class="text-sm text-purple-200">3 members - 10% each</div>
+                    </div>
+                    <div class="bg-white/10 rounded-lg p-4">
+                        <div class="text-3xl mb-2">🥉</div>
+                        <div class="font-bold text-xl">Diamond Hands (20%)</div>
+                        <div class="text-sm text-purple-200">5 members - 4% each</div>
+                    </div>
+                    <div class="bg-white/10 rounded-lg p-4">
+                        <div class="text-3xl mb-2">💎</div>
+                        <div class="font-bold text-xl">Lucky Draw (10%)</div>
+                        <div class="text-sm text-purple-200">1 random active member</div>
+                    </div>
+                </div>
+
+                <h3 class="text-2xl font-bold mt-6 mb-4">✅ What we value:</h3>
+                <ul class="space-y-2 mb-4">
+                    <li class="flex items-start">
+                        <span class="mr-2">✅</span>
+                        <span><strong>Active participation</strong> in community discussions</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2">✅</span>
+                        <span><strong>Helping other members</strong> - Mutual support is core to $SASA</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2">✅</span>
+                        <span><strong>Quality contributions</strong> - Insights, content, guidance</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2">✅</span>
+                        <span><strong>Holding tokens</strong> - Long-term believers get recognized</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2">✅</span>
+                        <span><strong>Positive attitude</strong> - Good vibes strengthen the community</span>
+                    </li>
+                </ul>
+
+                <div class="bg-yellow-500/20 border-2 border-yellow-500 rounded-lg p-4 my-6">
+                    <h3 class="text-xl font-bold mb-2">⚠️ Important context:</h3>
+                    <p class="mb-2">
+                        Since we're at the very beginning of our journey (currently 28 members), 
+                        the reward pool for this first distribution will be proportionally modest. 
+                        This is <strong>recognition</strong>, not significant income.
+                    </p>
+                    <p>
+                        <strong>The amounts will not be large for this initial distribution</strong>, 
+                        but they represent our commitment to rewarding real contributions from day one.
+                    </p>
+                </div>
+
+                <p class="text-lg mb-4">
+                    As our community grows, the reward pool scales accordingly. 
+                    <strong>Bigger community = bigger rewards for everyone.</strong>
+                </p>
+
+                <h3 class="text-2xl font-bold mt-6 mb-4">🗓️ Timeline:</h3>
+                <p class="mb-4">
+                    Between now and November 3rd, focus on:
+                </p>
+                <ul class="space-y-2 mb-6">
+                    <li>• Being active in Telegram</li>
+                    <li>• Helping fellow members cope and learn</li>
+                    <li>• Sharing valuable insights</li>
+                    <li>• Creating quality content</li>
+                    <li>• Building trust and support</li>
+                </ul>
+
+                <p class="mb-4">
+                    Winners will be announced on November 3rd with immediate distribution 
+                    and full transparency (transaction hashes shared).
+                </p>
+
+                <div class="bg-purple-600/30 rounded-lg p-6 text-center mt-8">
+                    <h3 class="text-2xl font-bold mb-3">💜 Building together</h3>
+                    <p class="text-lg">
+                        $SASA is about creating the most supportive crypto community. 
+                        Your contributions today lay the foundation for tomorrow's success.
+                    </p>
+                    <p class="text-xl font-bold mt-4">
+                        Small rewards now. Meaningful rewards later. Real community always.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Distribution History -->
+        <div class="glass-effect rounded-2xl p-8 mb-8 max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold mb-6 text-center">📊 Distribution History</h2>
+            
+            <!-- Distribution #1 -->
+            <div class="bg-white/10 rounded-lg p-6 mb-4">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <h3 class="text-2xl font-bold">Distribution #1</h3>
+                        <p class="text-purple-200">October 26, 2024</p>
+                    </div>
+                    <div class="bg-green-500 text-white px-4 py-2 rounded-full font-bold">
+                        ✅ COMPLETED
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+                    <div class="text-center">
+                        <div class="text-3xl font-bold">€20</div>
+                        <div class="text-sm text-purple-200">Total Distributed</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold">5</div>
+                        <div class="text-sm text-purple-200">Winners</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="text-3xl font-bold">28</div>
+                        <div class="text-sm text-purple-200">Community Size</div>
+                    </div>
+                </div>
+
+                <h4 class="font-bold mb-3">🏆 Winners:</h4>
+                <div class="space-y-3">
+                    <div class="bg-yellow-500/20 border-l-4 border-yellow-500 p-3 rounded">
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <div class="font-bold">🥇 Most Active Member</div>
+                                <div class="text-sm text-purple-200">@username</div>
+                            </div>
+                            <div class="font-bold text-xl">€5</div>
+                        </div>
+                    </div>
+                    <div class="bg-white/10 border-l-4 border-purple-400 p-3 rounded">
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <div class="font-bold">🥈 Best Early Supporter</div>
+                                <div class="text-sm text-purple-200">@username</div>
+                            </div>
+                            <div class="font-bold text-xl">€5</div>
+                        </div>
+                    </div>
+                    <div class="bg-white/10 border-l-4 border-blue-400 p-3 rounded">
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <div class="font-bold">💎 Diamond Hands #1</div>
+                                <div class="text-sm text-purple-200">@username</div>
+                            </div>
+                            <div class="font-bold text-xl">€3</div>
+                        </div>
+                    </div>
+                    <div class="bg-white/10 border-l-4 border-blue-400 p-3 rounded">
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <div class="font-bold">💎 Diamond Hands #2</div>
+                                <div class="text-sm text-purple-200">@username</div>
+                            </div>
+                            <div class="font-bold text-xl">€3</div>
+                        </div>
+                    </div>
+                    <div class="bg-white/10 border-l-4 border-blue-400 p-3 rounded">
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <div class="font-bold">💎 Diamond Hands #3</div>
+                                <div class="text-sm text-purple-200">@username</div>
+                            </div>
+                            <div class="font-bold text-xl">€4</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-6 bg-green-500/20 border border-green-500 rounded-lg p-4">
+                    <h5 class="font-bold mb-2">🔍 Proof of Distribution:</h5>
+                    <p class="text-sm mb-2">All transactions verified on Solana blockchain:</p>
+                    <div class="space-y-1 text-xs font-mono">
+                        <div class="truncate">TX: 5xK9...example1 ✅</div>
+                        <div class="truncate">TX: 7mL2...example2 ✅</div>
+                        <div class="truncate">TX: 3nP8...example3 ✅</div>
+                        <div class="text-purple-300 mt-2">
+                            (Replace with real transaction hashes)
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- How Points Work -->
+        <div class="glass-effect rounded-2xl p-8 mb-8 max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold mb-6 text-center">📈 How Recognition Works</h2>
+            
+            <div class="space-y-6">
+                <div>
+                    <h3 class="text-xl font-bold mb-3 flex items-center">
+                        <span class="bg-purple-500 rounded-full w-8 h-8 flex items-center justify-center mr-3">1</span>
+                        Be Active & Helpful
+                    </h3>
+                    <p class="ml-11 text-purple-200">
+                        Regular participation in Telegram, helping others cope with losses, 
+                        sharing insights and advice. Quality over quantity.
+                    </p>
+                </div>
+
+                <div>
+                    <h3 class="text-xl font-bold mb-3 flex items-center">
+                        <span class="bg-purple-500 rounded-full w-8 h-8 flex items-center justify-center mr-3">2</span>
+                        Create Value
+                    </h3>
+                    <p class="ml-11 text-purple-200">
+                        Share loss stories (with proof), create memes, write guides, 
+                        contribute content that helps the community.
+                    </p>
+                </div>
+
+                <div>
+                    <h3 class="text-xl font-bold mb-3 flex items-center">
+                        <span class="bg-purple-500 rounded-full w-8 h-8 flex items-center justify-center mr-3">3</span>
+                        Hold & Believe
+                    </h3>
+                    <p class="ml-11 text-purple-200">
+                        Long-term holders who believe in the vision get recognized. 
+                        We reward loyalty and trust.
+                    </p>
+                </div>
+
+                <div>
+                    <h3 class="text-xl font-bold mb-3 flex items-center">
+                        <span class="bg-purple-500 rounded-full w-8 h-8 flex items-center justify-center mr-3">4</span>
+                        Support Others
+                    </h3>
+                    <p class="ml-11 text-purple-200">
+                        Helping fellow members is the #1 priority. Those who support others 
+                        during tough times get the most recognition.
+                    </p>
+                </div>
+
+                <div class="bg-purple-600/30 rounded-lg p-6 mt-8">
+                    <p class="text-center text-lg">
+                        <strong>No algorithms. No bots. Just genuine community appreciation.</strong>
+                    </p>
+                    <p class="text-center text-purple-200 mt-2">
+                        Winners are determined by real contributions and community consensus.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Join CTA -->
+        <div class="glass-effect rounded-2xl p-8 max-w-4xl mx-auto text-center">
+            <h2 class="text-3xl font-bold mb-4">Ready to Contribute?</h2>
+            <p class="text-xl mb-6 text-purple-200">
+                Join the honest crypto community where support is free and contributions are rewarded fairly.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="https://t.me/YOUR_TELEGRAM" 
+                   class="bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white px-8 py-4 rounded-lg font-bold text-lg transition transform hover:scale-105">
+                    📱 Join Telegram
+                </a>
+                <a href="https://twitter.com/YOUR_TWITTER" 
+                   class="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-8 py-4 rounded-lg font-bold text-lg transition transform hover:scale-105">
+                    🐦 Follow Twitter
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-12 text-purple-200">
+            <p class="mb-2">Cope Together, Earn Together 💜</p>
+            <p class="text-sm">$SASA - The Honest Crypto Community</p>
+        </div>
+    </div>
+
+</body>
+</html>
